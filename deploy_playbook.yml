@@ -1,0 +1,6 @@
+- hosts: centos2 
+  become: true
+  vars_files:
+    - files/password.yml
+  roles:
+    - djoseph14.deploy_wp

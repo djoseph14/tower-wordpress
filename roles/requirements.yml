@@ -1,0 +1,3 @@
+---
+- src: djoseph14.docker_install
+- src: djoseph14.deploy_wp
